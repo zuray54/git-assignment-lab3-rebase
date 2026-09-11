@@ -12,4 +12,4 @@ if __name__ == "__main__":
     main()
     print("Disk: OK")
     print("CPU: OK")
-
+    print("RAM: OK")
